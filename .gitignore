@@ -1,2 +1,4 @@
 Diff_Transformer_with_BART2.ipynb
 自然言語基礎1.ipynb
+.gitignore
+.DS_Store
