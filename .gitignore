@@ -3,3 +3,6 @@ NLP/Diff_Transformer_with_BART2.ipynb
 rag_cookbooks
 data
 .ipynb_checkpoints
+chroma_db
+RAG/utils.py
+**/__pycache__
