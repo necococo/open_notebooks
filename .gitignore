@@ -6,3 +6,4 @@ data
 chroma_db
 RAG/utils.py
 **/__pycache__
+.code-workspace
