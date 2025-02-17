@@ -61,8 +61,8 @@ RetroLLM は **FM-Index** を活用し、検索と証拠生成を統合しなが
 Figure 1 (a) 伝統的なRAG、(b) ジェネレーティブリトリーバーを使うRAG、(c) RetroLLM
 
 *   **(a) 伝統的RAG:** 検索と生成を独立に行うため、情報参照が固定的になりがち。
-*   **(b) Generative Retrieval-based RAG:** Retrieverを生成モデル化するが、文書IDベースのため細粒度の証拠取得には限界がある。
-*   **(c) RetroLLM:** 検索と生成を**自己回帰的**に統合し、必要に応じて細かい文章断片を取得できる。
+*   **(b) Generative Retrieval-based RAG:** Retrieverを生成モデル化するが、文書IDベースのため正確な証拠取得には限界がある。
+*   **(c) RetroLLM:** 検索と生成を**自己回帰的**に統合し、必要に応じて細かい文章断片（証拠）を取得できる。
 
 **RetroLLM は、検索と生成を密接に結びつけ、より柔軟かつ正確な情報取得を実現します。**
 
