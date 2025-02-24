@@ -11,3 +11,4 @@ RAG/utils.py
 *.code-workspace
 env*
 .vscode
+.python-version
