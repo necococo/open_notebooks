@@ -1,14 +1,21 @@
-## そもそも論: Long Context vs. RAG
+#　Long Context vs. RAG
 
 [Long Context vs. RAG for LLMs: An Evaluation and Revisits](https://arxiv.org/abs/2501.01880)
 
 【LongContext】は特にWikipediaや書籍などの構造化されたテキストで優れた性能を示し、一方で【RAG技術】は対話ベースのシナリオや断片的な情報処理において優位性を持つことが判明しました。【文脈理解】の正解率では、LongContext(LC)が56.3%、RAGが49.0%という具体的な結果が得られています。
 
-またLCとRAGの[Hybrid](https://qiita.com/DDDDai/items/8f188fde488e4e38241a)も考えられますし、[GraphRAG](https://arxiv.org/html/2404.16130v2)や[RetroLLM](https://arxiv.org/html/2412.11919v1)などとのHybridも考えることはできます。(精度はわからない)
+（終わり）
+
+---
+
+LCとRAGの[Hybrid](https://qiita.com/DDDDai/items/8f188fde488e4e38241a)も考えられますし、[GraphRAG](https://arxiv.org/html/2404.16130v2)や[RetroLLM](https://arxiv.org/html/2412.11919v1)などとのHybridも考えることはできる。(精度はわからない)
+
+---
 
 ## 日本語RAGリーダーボード
 [日本語 RAG Leaderboard (2024年9月13日公開)](https://huggingface.co/datasets/allganize/RAG-Evaluation-Dataset-JA?ref=blog-ja.allganize.ai) 
 
+---
 
 # Fine-tuningや評価に使えそうなデータセット
 | データセット名                               | 種類         | データの質（人手チェック割合）                                                                                                                                  | 出典（提供元）                                                                                       | ライセンス <br>（説明）                                                                                         | 主な用途                                                                                         | 対応タスク（分野）                                                                    |

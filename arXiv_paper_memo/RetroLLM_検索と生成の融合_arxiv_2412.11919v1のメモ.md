@@ -1,6 +1,7 @@
 # RetroLLM: 検索と生成の統合
-[paper](https://arxiv.org/html/2412.11919v1)<br>
+[paper](https://arxiv.org/html/2412.11919v1)
 [github repo](https://github.com/sunnynexus/RetroLLM)
+[ダイチ氏 @LxGtUGtlRSh8yXW のXでのpost（画像がふんだん）](https://x.com/LxGtUGtlRSh8yXW/status/1877943571556225507)
 
 ---
 
@@ -92,3 +93,8 @@ Figure 1 (a) 伝統的なRAG、(b) ジェネレーティブリトリーバーを
 
 
 
+# open_notebooks
+
+このフォルダには、様々な学習や検証用の Jupyter Notebook が含まれています。  
+機械学習モデルの実験や、自然言語処理 (NLP)・RAG (Retrieval-Augmented Generation) 関連のコードサンプルなどを格納し、  
+ノートブック単位でコード実行・検証が行いやすいように構成されています。
