@@ -1,14 +1,16 @@
+**/__pycache__/
+*.code-workspace
+.DS_Store
+.vscode
+.python-version
+.ipynb_checkpoints
+env*/
+
+rag_cookbooks/
+mydata/
+RAG/utils.py
+memo.md
 NLP/Diff_Transformer_with_BART2.ipynb
 NLP/Diff-Transformer（Diff-Attention）の具体的計算例 .md
 NLP/Diff_Transformer_with_BART.ipynb
-.DS_Store
-rag_cookbooks
-data
-.ipynb_checkpoints
-chroma_db
-RAG/utils.py
-**/__pycache__
-*.code-workspace
-env*
-.vscode
-.python-version
+Full_Scratch_SML_dev/
